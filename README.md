@@ -1,0 +1,2 @@
+# Decorrelation-of-environmental-effects-on-measurements-of-a-sensor
+Le fichier dataset.dat contient les mesures d’un capteur de déplacement en fonction du temps ainsi que les mesures de température et d’ensoleillement associées. L’objectif de l’exercice est de fournir les valeurs de déplacement décorrélées (c’est-à-dire ne dépendant plus de la température et de l’ensoleillement) aux mêmes pas de temps.
